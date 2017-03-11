@@ -1,6 +1,6 @@
 {
   "name": "server",
-  "description": "A server of some kind...",
+  "description": "A Rails Server",
   "default_attributes": {
     "apt" : {
       "unattended_upgrades" : {
